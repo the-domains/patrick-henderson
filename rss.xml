@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Patrick Henderson]]></title>
+        <description><![CDATA[Patrick Henderson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 15:04:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About Me:</p>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">248e3f4a-02c6-423a-b680-916684297591</guid>
+            <pubDate>Mon, 08 Aug 2016 15:04:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
