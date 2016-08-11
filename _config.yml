@@ -1,20 +1,4 @@
-name: Patrick + Henderson
-favicon: null
-layout_spectrum: 0.42628
 typography_spectrum: 0.36777
-title: PATRICK+HENDERSON
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-82146928-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#4685aa'
@@ -26,4 +10,20 @@ color:
   lightness: 0.775341352680698
   saturation: 0.4630518064368516
   rhythmicContrast: 0.8824444878846407
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.42628
+analytics:
+  google: UA-82146928-1
+  facebook: null
+  twitter: null
+name: Patrick + Henderson
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: PATRICK+HENDERSON
 purpose: []
