@@ -2,23 +2,23 @@
     <channel>
         <title><![CDATA[PATRICK+HENDERSON]]></title>
         <description><![CDATA[PATRICK+HENDERSON]]></description>
-        <link>https://thegrid.ai/patrick-henderson/</link>
+        <link>http://www.patrick-henderson.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 14:34:04 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/patrick-henderson/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Aug 2016 20:08:17 GMT</lastBuildDate>
+        <atom:link href="http://www.patrick-henderson.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Academics and Schools:</p>]]></description>
-            <link>https://thegrid.ai/patrick-henderson/academics-and-schools/index.html</link>
-            <guid isPermaLink="false">186ee411-9201-401d-afae-8a01c5a06f06</guid>
-            <pubDate>Tue, 09 Aug 2016 14:34:03 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14a738c9-19ad-4dad-ba15-d354dffd4700.jpg">]]></description>
+            <link>http://www.patrick-henderson.com/about-me/index.html</link>
+            <guid isPermaLink="false">248e3f4a-02c6-423a-b680-916684297591</guid>
+            <pubDate>Fri, 19 Aug 2016 20:08:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>About Me:</p>]]></description>
-            <link>https://thegrid.ai/patrick-henderson/about-me/index.html</link>
-            <guid isPermaLink="false">248e3f4a-02c6-423a-b680-916684297591</guid>
-            <pubDate>Tue, 09 Aug 2016 12:48:18 GMT</pubDate>
+            <description><![CDATA[<p>Academics and Schools:</p>]]></description>
+            <link>http://www.patrick-henderson.com/academics-and-schools/index.html</link>
+            <guid isPermaLink="false">186ee411-9201-401d-afae-8a01c5a06f06</guid>
+            <pubDate>Tue, 09 Aug 2016 14:34:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
